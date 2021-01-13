@@ -14,7 +14,7 @@ tools and notes for podcasting
 ## Professional Editing
 
 - WeEditPodcasts
-- https://podcastpress.io/ also includes show notes
+- :star: https://podcastpress.io/ also includes show notes
 
 ## Marketing
 
