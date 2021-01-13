@@ -21,3 +21,5 @@ tools and notes for podcasting
 - waveform clips
   - https://www.headliner.app/
   - https://wavve.co/
+- social sharesnippets
+  - http://taptapes.com/
