@@ -2,6 +2,12 @@
 
 tools and notes for podcasting
 
+## Recording
+
+- zencastr (dont love it)
+- https://remotely.fm/
+
+
 ## DIY Editing
 
 - AI enabled editing
