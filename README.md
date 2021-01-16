@@ -2,6 +2,10 @@
 
 tools and notes for podcasting
 
+## Jobs
+
+who does what? https://podcasters.spotify.com/blog/who-does-what-on-a-podcast-team
+
 ## Recording
 
 - zencastr (dont love it)
