@@ -10,6 +10,7 @@ who does what? https://podcasters.spotify.com/blog/who-does-what-on-a-podcast-te
 
 - zencastr (dont love it)
 - https://remotely.fm/
+- (video) https://www.getwelder.com/ (new)
 
 
 ## DIY Editing
