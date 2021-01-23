@@ -26,6 +26,7 @@ who does what? https://podcasters.spotify.com/blog/who-does-what-on-a-podcast-te
 
 - WeEditPodcasts
 - :star: https://podcastpress.io/ also includes show notes
+- https://castos.com/podcast-editing-service/ (75-225 per episode)
 
 ## Marketing
 
