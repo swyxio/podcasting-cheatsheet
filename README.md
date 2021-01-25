@@ -28,6 +28,10 @@ who does what? https://podcasters.spotify.com/blog/who-does-what-on-a-podcast-te
 - :star: https://podcastpress.io/ also includes show notes
 - https://castos.com/podcast-editing-service/ (75-225 per episode)
 
+## Transcripts
+
+- otter.ai - gets better the more you upload
+
 ## Marketing
 
 - waveform clips
