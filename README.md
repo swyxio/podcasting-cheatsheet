@@ -37,5 +37,6 @@ who does what? https://podcasters.spotify.com/blog/who-does-what-on-a-podcast-te
 - waveform clips
   - https://www.headliner.app/
   - https://wavve.co/
+  - https://clips.marketing by cgenco
 - social sharesnippets
   - http://taptapes.com/
