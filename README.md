@@ -34,9 +34,10 @@ who does what? https://podcasters.spotify.com/blog/who-does-what-on-a-podcast-te
 
 ## Marketing
 
-- waveform clips
+- audiogram/waveform clips
   - https://www.headliner.app/
   - https://wavve.co/
   - https://clips.marketing by cgenco
+  - descript pro also has audiograms
 - social sharesnippets
   - http://taptapes.com/
