@@ -18,6 +18,7 @@ who does what? https://podcasters.spotify.com/blog/who-does-what-on-a-podcast-te
 - AI enabled editing
   - https://www.spext.co/
   - https://www.descript.com/
+  - milkvideo.com https://news.ycombinator.com/item?id=26251322
 - normal editing software
 	- https://audiomass.co/
 	- audacity
