@@ -6,6 +6,8 @@ tools and notes for podcasting
 
 who does what? https://podcasters.spotify.com/blog/who-does-what-on-a-podcast-team
 
+scheduling: https://castos.com/impress-your-podcast-guests/
+
 ## Recording
 
 - zencastr (dont love it)
