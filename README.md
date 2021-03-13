@@ -30,6 +30,8 @@ scheduling: https://castos.com/impress-your-podcast-guests/
 - WeEditPodcasts
 - :star: https://podcastpress.io/ also includes show notes
 - https://castos.com/podcast-editing-service/ (75-225 per episode)
+- chrisenns.com
+
 
 ## Transcripts
 
