@@ -24,6 +24,7 @@ scheduling: https://castos.com/impress-your-podcast-guests/
 - normal editing software
 	- https://audiomass.co/
 	- audacity
+	- https://www.izotope.com/en/shop/rx-8-standard.html
 
 ## Professional Editing
 
