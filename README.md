@@ -25,6 +25,8 @@ scheduling: https://castos.com/impress-your-podcast-guests/
 	- https://audiomass.co/
 	- audacity
 	- https://www.izotope.com/en/shop/rx-8-standard.html
+- video
+	- veed.io 	
 
 ## Professional Editing
 
