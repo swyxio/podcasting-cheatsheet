@@ -49,3 +49,5 @@ scheduling: https://castos.com/impress-your-podcast-guests/
   - descript pro also has audiograms
 - social sharesnippets
   - http://taptapes.com/
+- repurposing
+  - https://podreacher.com/
