@@ -27,6 +27,8 @@ scheduling: https://castos.com/impress-your-podcast-guests/
 	- https://www.izotope.com/en/shop/rx-8-standard.html
 - video
 	- veed.io 	
+	- https://vimeo.com/create
+	- https://motionbox.io/	
 
 ## Professional Editing
 
@@ -47,7 +49,6 @@ scheduling: https://castos.com/impress-your-podcast-guests/
   - https://wavve.co/
   - https://clips.marketing by cgenco
   - descript pro also has audiograms
-  - https://motionbox.io/
 - social sharesnippets
   - http://taptapes.com/
 - repurposing
