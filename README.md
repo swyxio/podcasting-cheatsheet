@@ -30,6 +30,10 @@ scheduling: https://castos.com/impress-your-podcast-guests/
 	- https://vimeo.com/create
 	- https://motionbox.io/	
 
+- podcast intros
+  - https://aaraalto.com/sounds a few brief guitar samples for podcast transitions 
+  - https://transistor.fm/free-podcast-intro-music/ free podcast intro music
+
 ## Professional Editing
 
 - WeEditPodcasts
